@@ -1,0 +1,49 @@
+Applications Memory Usage (in Kilobytes):
+Uptime: 4667815 Realtime: 4667815
+
+** MEMINFO in pid 2402 [com.example.android.quakereport] **
+                   Pss  Private  Private  SwapPss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     5669     5584        0        0    18432    14378     4053
+  Dalvik Heap     3540     3384        0        0     5755     3453     2302
+ Dalvik Other      843      840        0        0                           
+        Stack       40       40        0        0                           
+       Ashmem        2        0        0        0                           
+    Other dev        7        0        4        0                           
+     .so mmap     2999      148      876        0                           
+    .apk mmap     1274      344      276        0                           
+    .ttf mmap       91        0        0        0                           
+    .dex mmap     2084     2020       64        0                           
+    .oat mmap     4345        0      208        0                           
+    .art mmap     1681     1144        0        0                           
+   Other mmap       78        4        0        0                           
+      Unknown      409      392        0        0                           
+        TOTAL    23062    13900     1428        0    24187    17831     6355
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     4528
+         Native Heap:     5584
+                Code:     3936
+               Stack:       40
+            Graphics:        0
+       Private Other:     1240
+              System:     7734
+ 
+               TOTAL:    23062       TOTAL SWAP PSS:        0
+ 
+ Objects
+               Views:       56         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       17
+       Parcel memory:        4         Parcel count:       19
+    Death Recipients:        0      OpenSSL Sockets:        1
+            WebViews:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

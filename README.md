@@ -11,7 +11,7 @@
 + Using AsyncTasks to connect to the internet.
 + Using AsyncTasksLoader to connect to the internet.
 + Reading and parsing JSON data.
-+ Cuspmizing ListViews,using ArrayLists & ArrayAdapters.
++ Customizing ListViews,using ArrayLists & ArrayAdapters.
 + Using progress bar and listview empty for better UX.
 
 ## Screenshots 
